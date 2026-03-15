@@ -1,3 +1,5 @@
+![Website Security Scanner](report_preview.png)
+
 # 🔐 Website Security Scanner
 
 A Python-based cybersecurity tool that performs automated security analysis on websites.
