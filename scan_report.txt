@@ -1,0 +1,9 @@
+HTTPS supported
+Subdomain found: www.youtube.com
+Subdomain found: admin.youtube.com
+Directory found: /api
+Directory found: /test
+Directory found: /dev
+Directory found: /uploads
+Directory found: /dashboard
+Possible SQL injection indicator detected
