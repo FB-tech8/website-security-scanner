@@ -55,6 +55,25 @@ pip install colorama
 ```
 
 ---
+## ⚙️ Installation
+
+Clone the repository:
+
+```
+git clone https://github.com/henil-modi/website-security-scanner.git
+```
+
+Navigate to the project directory:
+
+```
+cd website-security-scanner
+```
+
+Run the scanner:
+
+```
+python scanner.py --target example.com
+```
 
 # ▶ Usage
 
