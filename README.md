@@ -1,5 +1,9 @@
 # 🔐 Website Security Scanner
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Security Tool](https://img.shields.io/badge/Cybersecurity-Scanner-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
 A Python-based cybersecurity tool that performs automated security analysis on websites.
 
 This project demonstrates practical techniques used in **web security testing and vulnerability scanning**.
